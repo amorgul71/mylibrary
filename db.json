@@ -1,0 +1,75 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Yaban ",
+      "author": "Yakup Kadri Karaosmanoğlu",
+      "categoryId": "1",
+      "isbn": "11111111111"
+    },
+    {
+      "id": 2,
+      "name": "Yeraltından Notlar",
+      "author": "Dostoyevski",
+      "isbn": "11111111112",
+      "categoryId": "2"
+    },
+    {
+      "id": 3,
+      "name": "Denemeler",
+      "author": "Montaigne",
+      "isbn": "11111111113",
+      "categoryId": "3"
+    },
+    {
+      "id": 1665570212303,
+      "name": "Sefiller",
+      "author": "Victor Hugo",
+      "isbn": "",
+      "categoryId": "1"
+    },
+    {
+      "id": 1665570260049,
+      "name": "Benim Adım Kırmızı",
+      "author": "Orhan Pamuk",
+      "isbn": "",
+      "categoryId": "1"
+    },
+    {
+      "id": 1665570307965,
+      "name": "Kaşağı",
+      "author": "Ömer Seyfettin",
+      "isbn": "",
+      "categoryId": "2"
+    },
+    {
+      "id": 1665570395400,
+      "name": "Cesur Yeni Dünya",
+      "author": "Aldous Huxley",
+      "isbn": "",
+      "categoryId": "1665508404683"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Roman"
+    },
+    {
+      "id": "2",
+      "name": "Hikaye"
+    },
+    {
+      "id": "3",
+      "name": "Deneme"
+    },
+    {
+      "id": "1664654215262",
+      "name": "Şiir"
+    },
+    {
+      "id": 1665508404683,
+      "name": "Bilim Kurgu"
+    }
+  ]
+}
